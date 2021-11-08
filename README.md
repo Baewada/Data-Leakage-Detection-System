@@ -3,4 +3,10 @@ A Data Leakage Detection system to detect Leckage of data inside an organization
 
 
 # Language Used:
-- Java
+- Java,
+- Javascript,
+- CSS.
+
+# Server 
+- Apache Tomcat
+
